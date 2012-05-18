@@ -9,5 +9,6 @@
   },
   "permissions": [
     "http://api.flickr.com/"
-  ]
+  ],
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
 }
